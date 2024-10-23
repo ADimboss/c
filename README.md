@@ -1,1 +1,1 @@
-My first programs in C№
+My first programs in C
